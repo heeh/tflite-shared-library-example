@@ -1,0 +1,75 @@
+RunCPU()
+
+1. Load Model()
+
+Loaded model detect.tflite
+2. Init Intertpreter
+
+3. Set up Input Tensor
+
+4. Prepare Input data
+
+Running benchmark for at least 1 iterations and at least 0 seconds but terminate if exceeding 10 seconds.
+count=1 curr=19842
+
+RunCPU()
+
+1. Load Model()
+
+Loaded model detect.tflite
+2. Init Intertpreter
+
+3. Set up Input Tensor
+
+4. Prepare Input data
+
+Running benchmark for at least 1 iterations and at least 0 seconds but terminate if exceeding 10 seconds.
+count=1 curr=37274
+
+RunCPU()
+
+1. Load Model()
+
+Loaded model detect.tflite
+2. Init Intertpreter
+
+3. Set up Input Tensor
+
+4. Prepare Input data
+
+Running benchmark for at least 1 iterations and at least 0 seconds but terminate if exceeding 10 seconds.
+count=1 curr=20496
+
+RunCPU()
+
+1. Load Model()
+
+Loaded model detect.tflite
+2. Init Intertpreter
+
+3. Set up Input Tensor
+
+4. Prepare Input data
+
+Running benchmark for at least 1 iterations and at least 0 seconds but terminate if exceeding 10 seconds.
+count=1 curr=19349
+
+RunCPU()
+
+1. Load Model()
+
+Loaded model detect.tflite
+2. Init Intertpreter
+
+3. Set up Input Tensor
+
+4. Prepare Input data
+
+Running benchmark for at least 1 iterations and at least 0 seconds but terminate if exceeding 10 seconds.
+count=1 curr=21804
+
+RunCPU()
+
+1. Load Model()
+
+Failed to mmap model detect.tflitee
